@@ -1,0 +1,27 @@
+$schema: https://azuremlschemas.azureedge.net/latest/MLTable.schema.json
+type: mltable
+paths:
+  - file: ./OJ_Sales_Combined_inn.csv
+transformations:
+  - read_delimited:
+      delimiter: ','
+      encoding: utf8
+      header: all_files_same_headers
+  - convert_column_types:
+      - columns: WeekStarting
+        column_type:
+          datetime:
+            formats:
+              - "%Y-%m-%d"
+      - columns: Store
+        column_type: string
+      - columns: Brand
+        column_type: string
+      - columns: Quantity
+        column_type: integer
+      - columns: Advert
+        column_type: integer
+      - columns: Price
+        column_type: float
+      - columns: Revenue
+        column_type: float
