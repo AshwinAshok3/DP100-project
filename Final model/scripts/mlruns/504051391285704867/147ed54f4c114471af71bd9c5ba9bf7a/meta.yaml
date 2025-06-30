@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/batch/tasks/shared/LS_root/mounts/clusters/ci00b7cf28ae7f478cbf/code/Users/User1-52618447/DP100-project/Final
+  model/scripts/mlruns/504051391285704867/147ed54f4c114471af71bd9c5ba9bf7a/artifacts
+end_time: 1751290813739
+entry_point_name: ''
+experiment_id: '504051391285704867'
+lifecycle_stage: active
+run_id: 147ed54f4c114471af71bd9c5ba9bf7a
+run_name: Forecast Plot Generation
+run_uuid: 147ed54f4c114471af71bd9c5ba9bf7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751290811215
+status: 3
+tags: []
+user_id: azureuser

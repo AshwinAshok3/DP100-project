@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/batch/tasks/shared/LS_root/mounts/clusters/ci00b7cf28ae7f478cbf/code/Users/User1-52618447/DP100-project/Final
+  model/scripts/mlruns/612426069404575229/ee5ac62b294f45b1950a0ded5493d9d7/artifacts
+end_time: 1751290664431
+entry_point_name: ''
+experiment_id: '612426069404575229'
+lifecycle_stage: active
+run_id: ee5ac62b294f45b1950a0ded5493d9d7
+run_name: Data Splitting
+run_uuid: ee5ac62b294f45b1950a0ded5493d9d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751290662188
+status: 3
+tags: []
+user_id: azureuser

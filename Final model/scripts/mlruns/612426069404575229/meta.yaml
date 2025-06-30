@@ -1,0 +1,7 @@
+artifact_location: file:///mnt/batch/tasks/shared/LS_root/mounts/clusters/ci00b7cf28ae7f478cbf/code/Users/User1-52618447/DP100-project/Final
+  model/scripts/mlruns/612426069404575229
+creation_time: 1751290659107
+experiment_id: '612426069404575229'
+last_update_time: 1751290659107
+lifecycle_stage: active
+name: Data Preparation Experiment

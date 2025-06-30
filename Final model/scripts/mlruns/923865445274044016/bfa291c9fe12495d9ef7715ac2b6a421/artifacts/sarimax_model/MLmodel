@@ -1,0 +1,29 @@
+artifact_path: sarimax_model
+flavors:
+  python_function:
+    data: model.statsmodels
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.statsmodels
+    python_version: 3.10.11
+  statsmodels:
+    code: null
+    data: model.statsmodels
+    statsmodels_version: 0.13.5
+is_signature_from_type_hint: false
+mlflow_version: 2.21.3
+model_size_bytes: 24862601
+model_uuid: 874dfc64bc534797bf625c57ad5feb87
+prompts: null
+run_id: bfa291c9fe12495d9ef7715ac2b6a421
+signature:
+  inputs: '[{"type": "double", "name": "lag_1_dom_qty", "required": true}, {"type":
+    "double", "name": "lag_52_dom_qty", "required": true}, {"type": "long", "name":
+    "week_of_year", "required": true}, {"type": "long", "name": "month_of_year", "required":
+    true}, {"type": "long", "name": "year", "required": true}, {"type": "long", "name":
+    "day_of_week", "required": true}]'
+  outputs: '[{"type": "long", "name": "dom_qty", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-30 13:39:56.504404'

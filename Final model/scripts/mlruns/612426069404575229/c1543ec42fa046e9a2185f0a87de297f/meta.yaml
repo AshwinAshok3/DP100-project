@@ -1,0 +1,16 @@
+artifact_uri: file:///mnt/batch/tasks/shared/LS_root/mounts/clusters/ci00b7cf28ae7f478cbf/code/Users/User1-52618447/DP100-project/Final
+  model/scripts/mlruns/612426069404575229/c1543ec42fa046e9a2185f0a87de297f/artifacts
+end_time: 1751290661926
+entry_point_name: ''
+experiment_id: '612426069404575229'
+lifecycle_stage: active
+run_id: c1543ec42fa046e9a2185f0a87de297f
+run_name: Data Preprocessing
+run_uuid: c1543ec42fa046e9a2185f0a87de297f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751290660337
+status: 3
+tags: []
+user_id: azureuser

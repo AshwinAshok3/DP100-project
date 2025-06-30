@@ -1,0 +1,7 @@
+artifact_location: file:///mnt/batch/tasks/shared/LS_root/mounts/clusters/ci00b7cf28ae7f478cbf/code/Users/User1-52618447/DP100-project/Final
+  model/scripts/mlruns/881134166300655735
+creation_time: 1751290808288
+experiment_id: '881134166300655735'
+last_update_time: 1751290808288
+lifecycle_stage: active
+name: Model Evaluation Experiment
