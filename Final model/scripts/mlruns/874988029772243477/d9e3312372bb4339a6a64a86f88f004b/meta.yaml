@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/SkillUp TechMaster 2024-25/TechMaster DP-100/DP100-project/Final
+  model/scripts/mlruns/874988029772243477/d9e3312372bb4339a6a64a86f88f004b/artifacts
+end_time: 1751229947857
+entry_point_name: ''
+experiment_id: '874988029772243477'
+lifecycle_stage: active
+run_id: d9e3312372bb4339a6a64a86f88f004b
+run_name: Data Splitting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751229947801
+status: 3
+tags: []
+user_id: preda

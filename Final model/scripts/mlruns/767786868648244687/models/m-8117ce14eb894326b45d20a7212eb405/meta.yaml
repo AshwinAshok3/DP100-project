@@ -1,0 +1,11 @@
+artifact_location: file:///F:/SkillUp TechMaster 2024-25/TechMaster DP-100/DP100-project/Final
+  model/scripts/mlruns/767786868648244687/models/m-8117ce14eb894326b45d20a7212eb405/artifacts
+creation_timestamp: 1751243122208
+experiment_id: '767786868648244687'
+last_updated_timestamp: 1751243126803
+model_id: m-8117ce14eb894326b45d20a7212eb405
+model_type: null
+name: sarimax_model
+source_run_id: 75b02ea301514850bad57f119528bec7
+status: 2
+status_message: null

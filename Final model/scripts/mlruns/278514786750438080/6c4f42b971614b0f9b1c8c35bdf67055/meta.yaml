@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/SkillUp TechMaster 2024-25/TechMaster DP-100/DP100-project/Final
+  model/scripts/mlruns/278514786750438080/6c4f42b971614b0f9b1c8c35bdf67055/artifacts
+end_time: 1751242206750
+entry_point_name: ''
+experiment_id: '278514786750438080'
+lifecycle_stage: active
+run_id: 6c4f42b971614b0f9b1c8c35bdf67055
+run_name: SARIMAX Hyperparameter Tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751242120265
+status: 3
+tags: []
+user_id: preda
