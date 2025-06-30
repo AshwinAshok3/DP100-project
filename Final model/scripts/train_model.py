@@ -395,7 +395,9 @@ def main():
     # plotting the final metrics
     plot_predictions(new_predictions,  y_test , y_train, best_order, best_seasonal_order)
     
-    
+    # End the main MLflow run
+    mlflow.end_run()
+    print("MLflow: Main run completed and ended.")
 
 # running the entire functions code with main 
 if __name__=="__main__":
